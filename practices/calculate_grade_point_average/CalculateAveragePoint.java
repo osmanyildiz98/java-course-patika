@@ -2,34 +2,32 @@ package calculate_grade_point_average;
 import java.util.Scanner;
 public class CalculateAveragePoint {
     public static void main (String[] args) {
-        int mathematics, physics, chemistry, biology, history, englishLiterature;
-
         Scanner input = new Scanner(System.in);
 
         System.out.println("Please enter your grade for the following subjects;");
 
         System.out.print("1. Mathematics grade: ");
-        mathematics = input.nextInt();
+        int mathematics = input.nextInt();
         System.out.println("------------------------------------------");
 
         System.out.print("2. Physics grade: ");
-        physics = input.nextInt();
+        int physics = input.nextInt();
         System.out.println("------------------------------------------");
 
         System.out.print("3. Chemistry grade: ");
-        chemistry = input.nextInt();
+        int chemistry = input.nextInt();
         System.out.println("------------------------------------------");
 
         System.out.print("4. Biology grade: ");
-        biology = input.nextInt();
+        int biology = input.nextInt();
         System.out.println("------------------------------------------");
 
         System.out.print("5. History grade: ");
-        history = input.nextInt();
+        int history = input.nextInt();
         System.out.println("------------------------------------------");
 
         System.out.print("6. English Literature grade: ");
-        englishLiterature = input.nextInt();
+        int englishLiterature = input.nextInt();
         System.out.println("------------------------------------------");
 
         int totalPoint = mathematics + physics + chemistry + biology + history + englishLiterature;
