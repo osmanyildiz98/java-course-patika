@@ -11,9 +11,9 @@ The program expects positive numeric values for both sides. If the user inputs a
 ## Step 2: Hypotenuse Calculation<br>
 Once the valid inputs are entered, the program calculates the length of the hypotenuse using the Pythagorean theorem:<br>
 
-\[
-\text{Hypotenuse} = \sqrt{a^2 + b^2}
-\]
+$$
+\[\text{Hypotenuse} = \sqrt{a^2 + b^2}\]
+$$
 
 Where:<br>
 - `a` is the length of one perpendicular side,<br>
