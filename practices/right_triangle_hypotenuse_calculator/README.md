@@ -27,11 +27,11 @@ Once the calculation is complete, the program prints the length of the hypotenus
 ### Example Usage:<br>
 Here’s an example of how the program works:<br>
 
-**Input:**<br>
+**Input:** <br>
 
 Enter the first side length: 3 Enter the second side length: 4<br>
 
-**Output:**<br>
+**Output:** <br>
 
 The length of the hypotenuse: 5.0<br>
 
