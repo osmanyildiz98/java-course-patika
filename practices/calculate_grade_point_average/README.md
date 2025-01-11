@@ -39,4 +39,41 @@ Once the average GPA is calculated, the program displays the result to the user.
 
 The result will be displayed in one of two ways:<br>
 
-- If average GPA > 60, the message displayed will be: "
+- If average GPA > 60, the message displayed will be: "You passed."<br>
+- If average GPA ≤ 60, the message displayed will be: "You Failed."<br>
+
+---
+
+## Example Usage:<br>
+
+Here is an example of how the program works:<br>
+
+1. **Input**: Enter the grades for the subjects:<br>
+    - Mathematics: 70<br>
+    - Physics: 75<br>
+    - Chemistry: 80<br>
+    - Biology: 65<br>
+    - History: 60<br>
+    - English Literature: 55<br>
+
+2. **Output**:<br>
+    - Your average point is `70`.<br>
+    - You passed.<br>
+
+---
+
+## Requirements:<br>
+
+- **Java** (Version 8 or higher)<br>
+- A Java IDE or command line setup for running Java programs.<br>
+
+---
+
+## How to Run:<br>
+
+1. Clone the repository to your local machine.<br>
+2. Compile and run the `CalculateAveragePoint.java` file in your preferred Java development environment.<br>
+
+```bash
+javac CalculateAveragePoint.java<br>
+java CalculateAveragePoint<br>
