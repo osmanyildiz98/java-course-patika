@@ -2,11 +2,11 @@
 
 This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
 
-## Step 1: User Input Validation
+## <span style="color:red">Step 1: User Input Validation</span>
 
 The first step in the application is to gather the three side lengths of the triangle. This is done using the `getSideLength` function, which ensures that the user enters valid numerical values for each side. If the input is not a valid number (e.g., letters or symbols), the function will display an error message and prompt the user to enter a valid number.
 
-## Step 2: Validating the Triangle
+## <span style="color:red">Step 2: Validating the Triangle</span>
 
 Once the side lengths are provided, the application checks if they form a valid triangle. A triangle is valid if the sum of any two sides is greater than the third side. This is verified using the following mathematical inequalities:
 
@@ -16,23 +16,23 @@ Once the side lengths are provided, the application checks if they form a valid 
 
 If any of these conditions are not met, the application will notify the user that the given sides do not form a valid triangle and ask for new input.
 
-## Step 3: Calculating the Area
+## <span style="color:red">Step 3: Calculating the Area</span>
 
 If the triangle is valid, the area is then calculated using **Heron's formula**:
 
 $$
-**\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}**
+\textbf{\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}}
 $$
 
 where \(s\) is the semi-perimeter, calculated as:
 
 $$
-**s = \frac{a + b + c}{2}**
+\textbf{s = \frac{a + b + c}{2}}
 $$
 
 The result is then displayed to the user as the area of the triangle.
 
-## Step 4: Displaying the Result
+## <span style="color:red">Step 4: Displaying the Result</span>
 
 Once the area is successfully calculated, it is displayed to the user with a message indicating the area of the triangle.
 
