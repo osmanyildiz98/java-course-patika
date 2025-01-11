@@ -1,4 +1,4 @@
-# Triangle Area Calculation in Java<br><br><br><br>
+# Triangle Area Calculation in Java<br><br>
 
 This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
 
