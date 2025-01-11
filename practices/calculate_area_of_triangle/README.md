@@ -1,10 +1,10 @@
 # Triangle Area Calculation in Java
 
-<br>This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
+<br>This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.<br>
 
 ## Step 1: User Input Validation
 
-<br>The first step in the application is to gather the three side lengths of the triangle. This is done using the `getSideLength` function, which ensures that the user enters valid numerical values for each side. If the input is not a valid number (e.g., letters or symbols), the function will display an error message and prompt the user to enter a valid number.
+<br>The first step in the application is to gather the three side lengths of the triangle. This is done using the `getSideLength` function, which ensures that the user enters valid numerical values for each side. If the input is not a valid number (e.g., letters or symbols), the function will display an error message and prompt the user to enter a valid number.<br>
 
 ## Step 2: Validating the Triangle
 
