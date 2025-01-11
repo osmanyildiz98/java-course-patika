@@ -9,28 +9,28 @@
 ## Step 2: Validating the Triangle
 
 <br>Once the side lengths are provided, the application checks if they form a valid triangle. A triangle is valid if the sum of any two sides is greater than the third side. This is verified using the following mathematical inequalities:
-
+<br>
 - \( a + b > c \)
 - \( a + c > b \)
 - \( b + c > a \)
 
-If any of these conditions are not met, the application will notify the user that the given sides do not form a valid triangle and ask for new input.
+<br>If any of these conditions are not met, the application will notify the user that the given sides do not form a valid triangle and ask for new input.
 
 ## Step 3: Calculating the Area
 
-<br>If the triangle is valid, the area is then calculated using **Heron's formula**:
+<br>If the triangle is valid, the area is then calculated using **Heron's formula**:<br>
 
 $$
 \text{Area} = \sqrt{s(s - a)(s - b)(s - c)}
 $$
 
-where \(s\) is the semi-perimeter, calculated as:
+where \(s\) is the semi-perimeter, calculated as:<br>
 
 $$
 s = \frac{a + b + c}{2}
 $$
 
-The result is then displayed to the user as the area of the triangle.
+The result is then displayed to the user as the area of the triangle.<br>
 
 ## Step 4: Displaying the Result
 
@@ -40,7 +40,7 @@ The result is then displayed to the user as the area of the triangle.
 
 ## Example Usage:
 
-Here is an example of how the program works:
+<br>Here is an example of how the program works:
 
 1. **Input**: Enter the lengths of the triangle sides:
     - Side 1: 5
