@@ -18,17 +18,13 @@ If any of these conditions are not met, the application will notify the user tha
 
 ## <span style="color:red">Step 3: Calculating the Area</span>
 
-If the triangle is valid, the area is then calculated using **Heron's formula**:
+If the triangle is valid, the area is then calculated using **Heron’s formula**:
 
-$$
-\textbf{\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}}
-$$
+**Area = √s(s - a)(s - b)(s - c)**
 
-where \(s\) is the semi-perimeter, calculated as:
+where **s** is the semi-perimeter, calculated as:
 
-$$
-\textbf{s = \frac{a + b + c}{2}}
-$$
+**s = (a + b + c) / 2**
 
 The result is then displayed to the user as the area of the triangle.
 
