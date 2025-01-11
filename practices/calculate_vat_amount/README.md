@@ -74,5 +74,5 @@ Here is an example of how the program works:<br>
 2. Compile and run the `CalculateVatAmount.java` file in your preferred Java development environment.<br>
 
 ```bash
-javac CalculateVatAmount.java<br>
-java CalculateVatAmount<br>
+javac CalculateVatAmount.java
+java CalculateVatAmount
