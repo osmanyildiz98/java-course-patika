@@ -75,5 +75,5 @@ Here is an example of how the program works:<br>
 2. Compile and run the `CalculateAveragePoint.java` file in your preferred Java development environment.<br>
 
 ```bash
-javac CalculateAveragePoint.java<br>
-java CalculateAveragePoint<br>
+javac CalculateAveragePoint.java
+java CalculateAveragePoint
