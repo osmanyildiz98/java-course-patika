@@ -1,14 +1,14 @@
 # Triangle Area Calculation in Java
 
-<br><br>This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
+<br>This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
 
 ## Step 1: User Input Validation
 
-The first step in the application is to gather the three side lengths of the triangle. This is done using the `getSideLength` function, which ensures that the user enters valid numerical values for each side. If the input is not a valid number (e.g., letters or symbols), the function will display an error message and prompt the user to enter a valid number.
+<br>The first step in the application is to gather the three side lengths of the triangle. This is done using the `getSideLength` function, which ensures that the user enters valid numerical values for each side. If the input is not a valid number (e.g., letters or symbols), the function will display an error message and prompt the user to enter a valid number.
 
 ## Step 2: Validating the Triangle
 
-Once the side lengths are provided, the application checks if they form a valid triangle. A triangle is valid if the sum of any two sides is greater than the third side. This is verified using the following mathematical inequalities:
+<br>Once the side lengths are provided, the application checks if they form a valid triangle. A triangle is valid if the sum of any two sides is greater than the third side. This is verified using the following mathematical inequalities:
 
 - \( a + b > c \)
 - \( a + c > b \)
@@ -18,7 +18,7 @@ If any of these conditions are not met, the application will notify the user tha
 
 ## Step 3: Calculating the Area
 
-If the triangle is valid, the area is then calculated using **Heron's formula**:
+<br>If the triangle is valid, the area is then calculated using **Heron's formula**:
 
 $$
 \text{Area} = \sqrt{s(s - a)(s - b)(s - c)}
@@ -34,7 +34,7 @@ The result is then displayed to the user as the area of the triangle.
 
 ## Step 4: Displaying the Result
 
-Once the area is successfully calculated, it is displayed to the user with a message indicating the area of the triangle.
+<br>Once the area is successfully calculated, it is displayed to the user with a message indicating the area of the triangle.
 
 ---
 
