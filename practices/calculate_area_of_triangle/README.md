@@ -21,13 +21,13 @@ If any of these conditions are not met, the application will notify the user tha
 If the triangle is valid, the area is then calculated using **Heron's formula**:
 
 $$
-\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}
+\textcolor{red}{\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}}
 $$
 
-where \(s\) is the semi-perimeter, calculated as:
+where \( \textcolor{red}{s} \) is the semi-perimeter, calculated as:
 
 $$
-s = \frac{a + b + c}{2}
+\textcolor{red}{s = \frac{a + b + c}{2}}
 $$
 
 The result is then displayed to the user as the area of the triangle.
