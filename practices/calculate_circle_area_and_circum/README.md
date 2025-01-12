@@ -30,11 +30,11 @@ This Java application calculates the area and circumference of a circle based on
 
 <br>
 
-  > ***Note: Where `r` is the radius.***
+- **Output Rounding**: Results are rounded to the nearest integer using `Math.round()`.
 
 <br>
   
-- **Output Rounding**: Results are rounded to the nearest integer using `Math.round()`.
+  > ***Note: Where `r` is the radius.***
 
 <br>
 
