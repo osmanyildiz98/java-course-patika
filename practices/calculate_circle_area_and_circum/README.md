@@ -38,7 +38,7 @@ This Java application calculates the area and circumference of a circle based on
 
 <br>
 
-  - ***Note: Where `r` is the radius.***
+  > ***Note: Where `r` is the radius.***
 
 <br>
   
