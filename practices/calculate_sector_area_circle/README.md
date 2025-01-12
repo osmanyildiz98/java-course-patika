@@ -16,7 +16,7 @@ This Java application calculates the area of a sector in a circle based on the r
 
 <br>
 
-> $$\[A = \frac{{\pi \times r^2 \times \theta}}{{360}}\]$$
+$$\[A = \frac{{\pi \times r^2 \times \theta}}{{360}}\]$$
 
 <br>
 
@@ -28,11 +28,11 @@ This Java application calculates the area of a sector in a circle based on the r
 
 <br>
 
-> -The program first prompts the user to enter the radius of the circle.
-> -If the entered radius is invalid (less than or equal to zero), the program will prompt the user to input a valid positive radius.
-> -The user is then prompted to enter the central angle (in degrees) of the sector.
-> -The program checks if the angle is between 0 and 360 degrees, ensuring it's a valid value.
-> -The area of the sector is calculated and displayed as an integer rounded to the nearest value.
+> - The program first prompts the user to enter the radius of the circle.
+> - If the entered radius is invalid (less than or equal to zero), the program will prompt the user to input a valid positive radius.
+> - The user is then prompted to enter the central angle (in degrees) of the sector.
+> - The program checks if the angle is between 0 and 360 degrees, ensuring it's a valid value.
+> - The area of the sector is calculated and displayed as an integer rounded to the nearest value.
 
 <br>
 
