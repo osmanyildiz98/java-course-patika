@@ -15,5 +15,6 @@ public class TaximeterProgram {
 
         System.out.println("The amount you need to pay is " + (result < 20 ? 20 : result));
 
+        input.close();
     }
 }
