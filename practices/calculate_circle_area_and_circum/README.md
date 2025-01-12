@@ -18,13 +18,9 @@ This Java application calculates the area and circumference of a circle based on
  
   $$
   \[
-  ``C = 2 \times \pi \times r``
+  C = 2 \times \pi \times r
   \]
   $$
-
-  <br>
-
-  where `r` is the radius.
 
   <br>
 
@@ -37,6 +33,10 @@ This Java application calculates the area and circumference of a circle based on
    A = \pi \times r^2
   \]
   $$
+
+  <br>
+
+  **Note: Where `r` is the radius.**
 
   <br>
   
