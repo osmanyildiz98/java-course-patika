@@ -48,3 +48,30 @@ Please enter the central angle (in degrees) of the circle sector: 90
 ```
 
 **Output**:
+
+```
+The area of the circle is 20
+```
+
+<br>
+
+## Technologies Used:
+
+<br>
+
+- Java (JDK 8 or later)
+- `Math.PI` for precision in calculating π
+- `Scanner` for reading user input from the console
+
+## How to Run:
+
+<br>
+
+1. Clone this repository to your local machine.
+2. Compile and run the `calculateSectorArea.java` file in your Java IDE or from the command line.
+3. Follow the on-screen instructions to input the radius and central angle of the sector, then see the calculated area.
+
+```
+javac CalculateSectorAreaCircle.java
+java CalculateSectorAreaCircle
+```
