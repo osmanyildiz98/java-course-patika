@@ -64,6 +64,7 @@ Here is an example of how the program works:<br>
 1. Clone the repository to your local machine.<br>
 2. Compile and run the `CalculateAreaOfTriangle.java` file in your preferred Java development environment.<br>
 
-```bash
-javac CalculateAreaOfTriangle.java<br>
-java CalculateAreaOfTriangle<br>
+```
+javac CalculateAreaOfTriangle.java
+java CalculateAreaOfTriangle
+```
