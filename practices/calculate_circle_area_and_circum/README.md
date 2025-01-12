@@ -36,7 +36,7 @@ This Java application calculates the area and circumference of a circle based on
 
   <br>
 
-  **Note: Where `r` is the radius.**
+  - **Note: Where `r` is the radius.**
 
   <br>
   
@@ -49,6 +49,8 @@ This Java application calculates the area and circumference of a circle based on
 2. If the radius is zero or negative, the program will display an error message and request the user to input a valid value.
 3. After receiving a valid radius, the program calculates and displays the circumference and area of the circle.
 4. The results are rounded to the nearest integer and printed on the screen.
+
+<br>
 
 ## Example: 
 
