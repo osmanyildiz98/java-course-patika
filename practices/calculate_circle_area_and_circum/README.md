@@ -44,7 +44,6 @@ This Java application calculates the area and circumference of a circle based on
 <br>
 
 ## How it Works: 
-<br>
 
 1. The program asks the user to input the radius of a circle.
 2. If the radius is zero or negative, the program will display an error message and request the user to input a valid value.
@@ -70,19 +69,13 @@ This Java application calculates the area and circumference of a circle based on
 
 ## Requirements:
 
-<br>
-
 - **Java** (Version 8 or higher)
 
 - A Java IDE or command line setup for running Java programs.
 
 <br>
 
----
-
 ## How to Run:
-
-<br>
 
 1. Clone the repository to your local machine.
 2. Compile and run the `CalculateCircleAreaCircum.java` file in your preferred Java development environment.
