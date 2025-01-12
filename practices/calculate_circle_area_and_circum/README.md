@@ -63,7 +63,9 @@ This Java application calculates the area and circumference of a circle based on
 
 **Input**:  
 
-`Enter the radius: 5`
+```
+Enter the radius: 5
+```
 
 <br>
 
@@ -95,6 +97,7 @@ The area of the circle is 79
 
 <br>
 
-```bash
+```
 javac CalculateCircleAreaCircum.java
 java CalculateCircleAreaCircum
+```
