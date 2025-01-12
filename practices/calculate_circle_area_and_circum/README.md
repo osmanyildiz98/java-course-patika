@@ -1,7 +1,9 @@
 # Calculate Circle Area and Circumference
----
+
 <br>
+
 This Java application calculates the area and circumference of a circle based on a user-inputted radius. The program ensures the input is valid (positive radius) and then outputs the calculated values for the circumference and area, rounded to the nearest integer.
+
 <br>
 
 ## Features: 
@@ -13,13 +15,12 @@ This Java application calculates the area and circumference of a circle based on
 - **Circumference Calculation**: Calculates the circumference of the circle using the formula:
 <br>
 
-  ``
+ 
   $$
   \[
-  C = 2 \times \pi \times r
+  ``C = 2 \times \pi \times r``
   \]
   $$
-  ``
 
   <br>
 
