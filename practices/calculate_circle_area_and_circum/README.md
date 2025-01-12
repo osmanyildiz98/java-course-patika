@@ -69,8 +69,10 @@ This Java application calculates the area and circumference of a circle based on
 
 **Output**:
 
-`The circumference of the circle is 31
-The area of the circle is 79`
+`
+The circumference of the circle is 31  
+The area of the circle is 79
+`
 
 <br>
 
