@@ -41,9 +41,11 @@ This Java application calculates the area and circumference of a circle based on
 
 ```bash
 
-The circumference of the circle is 31 <br>
+The circumference of the circle is 31
 
-The area of the circle is 79 <br>
+The area of the circle is 79
+
+```
 
 ## Requirements:<br>
 
@@ -58,5 +60,5 @@ The area of the circle is 79 <br>
 2. Compile and run the `CalculateCircleAreaCircum.java` file in your preferred Java development environment.<br>
 
 ```bash
-javac CalculateCircleAreaCircum.java<br>
-java CalculateCircleAreaCircum<br>
+javac CalculateCircleAreaCircum.java
+java CalculateCircleAreaCircum
