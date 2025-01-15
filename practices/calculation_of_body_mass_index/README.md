@@ -11,10 +11,15 @@ This Java application calculates the Body Mass Index (BMI) based on the user's w
 <br>
 
 - **Input Validation for Weight**: The program ensures that the entered weight is a positive number. If a non-positive number is entered, the user is prompted to enter a valid weight.
+
 <br>
+
 - **Input Validation for Height**: The program checks that the entered height is positive. If an invalid height is entered, the user is asked to input a valid height.
+
 <br>
+
 - **BMI Calculation**: The Body Mass Index is calculated using the formula:
+
 <br>
 
 **$$\[BMI = \frac{{\text{weight}}}{{\text{height}^2}}\]$$**
