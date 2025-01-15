@@ -47,11 +47,9 @@ If the triangle is valid, the area is then calculated using **Heron's formula**:
 
 <br>
 
-**$$s = \frac{a + b + c}{2}$$**
-
-<br>
-
 > where \(s\) is the semi-perimeter, calculated as:
+
+**$$s = \frac{a + b + c}{2}$$**
 
 <br>
 
