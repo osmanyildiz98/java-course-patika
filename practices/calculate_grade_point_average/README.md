@@ -45,7 +45,9 @@ The formula for calculating the GPA is:
 
 $$
 **\text{Total Points} = \text{Mathematics} + \text{Physics} + \text{Chemistry} + \text{Biology} + \text{History} + \text{English Literature}**
-$$<br>
+$$
+
+<br>
 
 Then the average is calculated as:
 
