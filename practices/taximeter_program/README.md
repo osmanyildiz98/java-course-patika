@@ -31,13 +31,13 @@ Once the valid distance input is entered, the program calculates the fare using 
 <br>
 
 
->**$$\text{Fare} = \text{Minimum Fare} + (\text{Distance} \times \text{Rate per Kilometer})$$**
+**$$\text{Fare} = \text{Minimum Fare} + (\text{Distance} \times \text{Rate per Kilometer})$$**
 
 <br>
 
-Where:  
-- **Minimum Fare** is set to 10 units  
-- **Rate per Kilometer** is set to 2.20 units  
+>Where:  
+>- **Minimum Fare** is set to 10 units  
+>- **Rate per Kilometer** is set to 2.20 units  
 
 If the calculated fare is less than 20 units, the program will adjust the fare to 20 units.
 
