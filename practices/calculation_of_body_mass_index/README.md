@@ -55,18 +55,12 @@ $$**
 <br>
 
 **Input**:
-
-<br>
-
 `Please enter your weight: 70`  
 `Please enter your height (in meters): 1.75`
 
 <br>
 
 **Output**:
-
-<br>
-
 `Your body mass index is 22.857142857142858`
 
 <br>
