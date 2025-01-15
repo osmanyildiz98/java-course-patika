@@ -22,7 +22,7 @@ This Java application calculates the Body Mass Index (BMI) based on the user's w
 
 <br>
 
-**$$\BMI = \frac{{\text{weight}}}{{\text{height}^2}}\$$**
+**$$[\BMI = \frac{{\text{weight}}}{{\text{height}^2}}\]$$**
 
 <br>
 
