@@ -85,7 +85,7 @@ Enter the lengths of the triangle sides:
 
 **Output**
 
- `The area of the triangle is 14.7`.
+ `The area of the triangle is 14.7`
  
  <br>
 
