@@ -4,6 +4,8 @@
 
 This Java application allows you to calculate the area of a triangle by inputting the lengths of its three sides. The process involves validating the triangle’s side lengths, ensuring they form a valid triangle, and then calculating the area using **Heron’s formula**.
 
+<br>
+
 ## Step 1: User Input Validation
 
 <br>
@@ -24,6 +26,8 @@ Once the side lengths are provided, the application checks if they form a valid 
 >- \( a + c > b \)
 >- \( b + c > a \)
 
+<br>
+
 If any of these conditions are not met, the application will notify the user that the given sides do not form a valid triangle and ask for new input.
 
 <br>
@@ -36,15 +40,18 @@ If the triangle is valid, the area is then calculated using **Heron's formula**:
 
 <br>
 
-> $$\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}$$
+**$$\text{Area} = \sqrt{s(s - a)(s - b)(s - c)}$$**
+
+<br>
+
+
+<br>
+
+**$$s = \frac{a + b + c}{2}$$**
 
 <br>
 
 > where \(s\) is the semi-perimeter, calculated as:
-
-<br>
-
-> $$s = \frac{a + b + c}{2}$$
 
 <br>
 
