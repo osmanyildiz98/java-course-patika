@@ -84,7 +84,7 @@ Here is an example of how the program works:
 
 <br>
 
-- **Input**
+**Input**
 
 Enter the grades for the subjects:
 
@@ -99,7 +99,7 @@ Enter the grades for the subjects:
 
 <br>
 
-- **Output**
+**Output**
 
 `Your average point is 70.`  
 `You passed.`
