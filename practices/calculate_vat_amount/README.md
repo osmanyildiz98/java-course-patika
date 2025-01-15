@@ -32,15 +32,18 @@ The program then checks whether the entered amount exceeds a certain threshold (
 
 - **VAT Rate**: 
     - 8% if the amount is greater than 1000
+    
     <br>
+    
     - 18% if the amount is less than or equal to 1000
+    
     <br>
 
 ## Step 3: Calculating the VAT and Total Amount
 
 <br>
 
-Once the VAT rate is determined, the VAT amount is calculated as follows:
+>Once the VAT rate is determined, the VAT amount is calculated as follows:
 
 <br>
 
@@ -48,7 +51,7 @@ Once the VAT rate is determined, the VAT amount is calculated as follows:
 
 <br>
 
-Then, the total amount including VAT is calculated:
+>Then, the total amount including VAT is calculated:
 
 <br>
 
@@ -56,7 +59,7 @@ Then, the total amount including VAT is calculated:
 
 <br>
 
-The results are then displayed to the user:
+>The results are then displayed to the user:
 
 <br>
 
@@ -101,7 +104,7 @@ Enter an amount for VAT calculation:
 **Output**
 
 `The VAT rate is: 8%`  
-`The VAT amount is: 120.0` 
+`The VAT amount is: 120.0`   
 `Total amount including VAT: 1620.0`
 
 <br>
