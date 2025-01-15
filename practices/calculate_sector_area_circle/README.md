@@ -63,6 +63,8 @@ The area of the circle is 20
 - `Math.PI` for precision in calculating π
 - `Scanner` for reading user input from the console
 
+  <br>
+
 ## How to Run:
 
 <br>
@@ -70,6 +72,8 @@ The area of the circle is 20
 1. Clone this repository to your local machine.
 2. Compile and run the `calculateSectorArea.java` file in your Java IDE or from the command line.
 3. Follow the on-screen instructions to input the radius and central angle of the sector, then see the calculated area.
+
+<br>
 
 ```
 javac CalculateSectorAreaCircle.java

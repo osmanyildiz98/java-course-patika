@@ -1,78 +1,132 @@
-# VAT Amount Calculation in Java<br>
+# VAT Amount Calculation in Java
 
-This Java application calculates the Value Added Tax (VAT) based on a given amount. The program prompts the user to enter an amount, determines the appropriate VAT rate, calculates the VAT amount, and then computes the total amount including VAT.<br>
+<br>
 
-## Step 1: User Input<br>
+This Java application calculates the Value Added Tax (VAT) based on a given amount. The program prompts the user to enter an amount, determines the appropriate VAT rate, calculates the VAT amount, and then computes the total amount including VAT.
 
-The first step in the application is to gather an amount from the user. The user is prompted to enter a numerical value representing the price of a product or service.<br>
+<br>
 
-- **Amount**: The user is asked to enter an amount for which the VAT will be calculated.<br>
+## Step 1: User Input
 
-If the amount entered is negative, the program will ask the user to input a valid positive amount.<br>
+<br>
 
-## Step 2: Determining the VAT Rate<br>
+The first step in the application is to gather an amount from the user. The user is prompted to enter a numerical value representing the price of a product or service.
 
-The program then checks whether the entered amount exceeds a certain threshold (1000). If the amount is greater than 1000, a VAT rate of 8% is applied; otherwise, a VAT rate of 18% is used.<br>
+<br>
+
+- **Amount**: The user is asked to enter an amount for which the VAT will be calculated.
+
+<br>
+
+If the amount entered is negative, the program will ask the user to input a valid positive amount.
+
+<br>
+
+## Step 2: Determining the VAT Rate
+
+<br>
+
+The program then checks whether the entered amount exceeds a certain threshold (1000). If the amount is greater than 1000, a VAT rate of 8% is applied; otherwise, a VAT rate of 18% is used.
+
+<br>
 
 - **VAT Rate**: 
-    - 8% if the amount is greater than 1000<br>
-    - 18% if the amount is less than or equal to 1000<br>
+    - 8% if the amount is greater than 1000
+    
+    <br>
+    
+    - 18% if the amount is less than or equal to 1000
+    
+    <br>
 
-## Step 3: Calculating the VAT and Total Amount<br>
+## Step 3: Calculating the VAT and Total Amount
 
-Once the VAT rate is determined, the VAT amount is calculated as follows:<br>
+<br>
 
-$$
-\text{VAT Amount} = \text{Amount} \times \text{VAT Rate}
-$$<br>
+>Once the VAT rate is determined, the VAT amount is calculated as follows:
 
-Then, the total amount including VAT is calculated:<br>
+<br>
 
-$$
-\text{Total Amount} = \text{Amount} + \text{VAT Amount}
-$$<br>
+**$$\text{VAT Amount} = \text{Amount} \times \text{VAT Rate}$$**
 
-The results are then displayed to the user:<br>
+<br>
+
+>Then, the total amount including VAT is calculated:
+
+<br>
+
+**$$\text{Total Amount} = \text{Amount} + \text{VAT Amount}$$**
+
+<br>
+
+>The results are then displayed to the user:
+
+<br>
+
 - **VAT Rate** (percentage)
 - **VAT Amount** (calculated VAT)
-- **Total Amount including VAT** (final price including VAT)<br>
+- **Total Amount including VAT** (final price including VAT)
 
-## Step 4: Displaying the Result<br>
+<br>
 
-Once the VAT and total amount are calculated, the program displays the following details to the user:<br>
+## Step 4: Displaying the Result
 
-- The VAT rate applied<br>
-- The VAT amount<br>
-- The total amount including VAT<br>
+<br>
 
----
+Once the VAT and total amount are calculated, the program displays the following details to the user:
 
-## Example Usage:<br>
+<br>
 
-Here is an example of how the program works:<br>
+- The VAT rate applied
+- The VAT amount
+- The total amount including VAT
 
-1. **Input**: Enter an amount for VAT calculation:<br>
-    - Amount: 1500<br>
+<br>
 
-2. **Output**:<br>
-    - The VAT rate is: `8%`<br>
-    - The VAT amount is: `120.0`<br>
-    - Total amount including VAT: `1620.0`<br>
+## Example Usage:
 
----
+<br>
 
-## Requirements:<br>
+Here is an example of how the program works:
 
-- **Java** (Version 8 or higher)<br>
-- A Java IDE or command line setup for running Java programs.<br>
+<br>
 
----
+**Input**
 
-## How to Run:<br>
+Enter an amount for VAT calculation:
 
-1. Clone the repository to your local machine.<br>
-2. Compile and run the `CalculateVatAmount.java` file in your preferred Java development environment.<br>
+<br>
 
-```bash
+`Amount: 1500`
+    
+<br>
+
+**Output**
+
+`The VAT rate is: 8%`  
+`The VAT amount is: 120.0`   
+`Total amount including VAT: 1620.0`
+
+<br>
+
+## Requirements:
+
+<br>
+
+- **Java** (Version 8 or higher)
+- A Java IDE or command line setup for running Java programs.
+
+<br>
+
+## How to Run:
+
+<br>
+
+1. Clone the repository to your local machine.
+2. Compile and run the `CalculateVatAmount.java` file in your preferred Java development environment.
+
+<br>
+
+```
 javac CalculateVatAmount.java
 java CalculateVatAmount
