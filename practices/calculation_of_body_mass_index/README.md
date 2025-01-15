@@ -39,13 +39,9 @@ $$**
 <br>
 
 1. The program prompts the user to enter their weight in kilograms.
-<br>
 2. If the entered weight is less than or equal to zero, the program asks the user to provide a valid weight.
-<br>
 3. The program then prompts the user to input their height in meters.
-<br>
 4. If the entered height is invalid (less than or equal to zero), the program requests a valid height.
-<br>
 5. After receiving valid inputs for both weight and height, the program calculates and displays the BMI.
 
 <br>
