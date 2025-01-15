@@ -30,9 +30,8 @@ Once the valid distance input is entered, the program calculates the fare using 
 
 <br>
 
-$$
-**\text{Fare} = \text{Minimum Fare} + (\text{Distance} \times \text{Rate per Kilometer})**
-$$
+
+>**$$\text{Fare} = \text{Minimum Fare} + (\text{Distance} \times \text{Rate per Kilometer})$$**
 
 <br>
 
@@ -89,6 +88,8 @@ Here’s an example of how the program works:
 
 1. Clone the repository to your local machine.
 2. Compile and run the `TaximeterProgram.java` file in your preferred Java development environment.
+
+<br>
 
 **Commands:**
 
