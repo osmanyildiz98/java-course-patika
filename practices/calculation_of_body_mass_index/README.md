@@ -1,4 +1,4 @@
-# $$[\Calculation of Body Mass Index (BMI)\]$$
+# $$[Calculation of Body Mass Index (BMI)]$$
 
 <br>
 
