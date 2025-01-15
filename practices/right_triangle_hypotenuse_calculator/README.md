@@ -33,9 +33,9 @@ Once the valid inputs are entered, the program calculates the length of the hypo
 
 >Where:
 <br>
-> `a` is the length of one perpendicular side,
+>`a` is the length of one perpendicular side,
 <br>
-> `b` is the length of the other perpendicular side.
+>`b` is the length of the other perpendicular side.
 <br>
 
 The result is displayed to the user as the calculated length of the hypotenuse.
