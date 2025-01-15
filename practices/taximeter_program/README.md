@@ -35,7 +35,10 @@ Once the valid distance input is entered, the program calculates the fare using 
 
 <br>
 
->Where:  
+>Where:
+
+<br>
+ 
 >**Minimum Fare** is set to 10 units  
 >**Rate per Kilometer** is set to 2.20 units
 
