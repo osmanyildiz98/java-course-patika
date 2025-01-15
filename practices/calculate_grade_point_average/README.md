@@ -39,7 +39,7 @@ Once all the grades are entered, the application calculates the total grade poin
 
 <br>
 
-The formula for calculating the GPA is:
+>The formula for calculating the GPA is:
 
 <br>
 
@@ -49,7 +49,7 @@ $$
 
 <br>
 
-Then the average is calculated as:
+>Then the average is calculated as:
 
 <br>
 
@@ -92,12 +92,12 @@ Enter the grades for the subjects:
 
 <br>
 
-`Mathematics: 70`
-`Physics: 75`
-`Chemistry: 80`
-`Biology: 65`
-`History: 60`
-`English Literature: 55`
+`Mathematics: 70`  
+`Physics: 75`  
+`Chemistry: 80`  
+`Biology: 65`  
+`History: 60`  
+`English Literature: 55`  
 
 <br>
 
@@ -105,7 +105,7 @@ Enter the grades for the subjects:
 
 <br>
 
-`Your average point is 70.`
+`Your average point is 70.`  
 `You passed.`
     
 <br>
